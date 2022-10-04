@@ -25,7 +25,7 @@ const Layout = ({ location, title, children }) => {
       <header className="global-header">{header}</header>
       <main>{children}</main>
       <footer>
-        © {new Date().getFullYear()} Counter-Strike Confederation | Built with
+        © {new Date().getFullYear()} Michael Madden | Built with
         {` `}
         <a href="https://www.gatsbyjs.com" target="_blank">Gatsby</a>
       </footer>
