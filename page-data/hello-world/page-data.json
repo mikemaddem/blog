@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/hello-world/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"CSC Technical Committee Blog"}},"markdownRemark":{"id":"18fc4fe9-0e89-59ce-8872-949d1f306088","excerpt":"Soon™","html":"<p>Soon™</p>","frontmatter":{"title":"Soon","date":"February 22, 2022","description":"Soon"}},"previous":null,"next":null},"pageContext":{"id":"18fc4fe9-0e89-59ce-8872-949d1f306088","previousPostId":null,"nextPostId":null}},
+    "staticQueryHashes": ["2841359383","3257411868"]}
